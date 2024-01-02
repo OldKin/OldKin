@@ -2,9 +2,9 @@
 ## Eu sou o Pedro Henrique
 
 
-- 🏢 Atualmente estou trabalhando na área de comercio mas estou fazendo migração para programação.
+- 🏢 Atualmente estou trabalhando na área de comércio mas estou fazendo migração para programação.
 - 📝  Ja fiz curso técnico de Eletrotécnica, e pretendo fazer uma faculdade na área de tecnologia.
-- 🏫 Atualmente estou cursando back end e front and na alura
+- 🏫 Atualmente estou cursando back-end e front-and na alura
 
 
 <a href="https://github.com/OldKin">
