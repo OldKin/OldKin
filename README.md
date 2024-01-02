@@ -27,4 +27,3 @@
 </div>
 
 ##
-![Snake animation](https://github.com/OldKin/OldKin/blob/output/github-contribution-grid-snake.svg)
